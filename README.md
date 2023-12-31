@@ -43,3 +43,6 @@ JOIN sales.markets
 ON transactions.market_code = markets.markets_code
 GROUP BY market_code;
 ```
+
+* PowerBI Dashboard Looks Like: 
+![Dashboard](https://github.com/YeasirArafatRatul/sales_data_analysis_sql_powerBI/dashboard.png?raw=true)
