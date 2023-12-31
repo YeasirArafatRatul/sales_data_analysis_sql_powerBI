@@ -1,5 +1,5 @@
 USE sales;
-* How many data are in this table?
+* How many transactions are in the transactions table?
 ``` sql
 SELECT COUNT(*) AS number_of_transactions FROM sales.transactions;
 ```
