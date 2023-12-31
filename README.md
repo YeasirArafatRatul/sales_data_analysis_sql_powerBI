@@ -45,4 +45,4 @@ GROUP BY market_code;
 ```
 
 * PowerBI Dashboard Looks Like: 
-![Dashboard](https://github.com/YeasirArafatRatul/sales_data_analysis_sql_powerBI/dashboard.png?raw=true)
+![Dashboard](https://github.com/YeasirArafatRatul/sales_data_analysis_sql_powerBI/blob/master/dashboard.png?raw=true)
