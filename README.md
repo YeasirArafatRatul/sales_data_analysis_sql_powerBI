@@ -44,5 +44,5 @@ ON transactions.market_code = markets.markets_code
 GROUP BY market_code;
 ```
 
-* PowerBI Dashboard Looks Like: 
+* PowerBI Dashboard Looks Like: The Dashboard is fully interactive and shows accurate data...
 ![Dashboard](https://github.com/YeasirArafatRatul/sales_data_analysis_sql_powerBI/blob/master/dashboard.png?raw=true)
